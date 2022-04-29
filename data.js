@@ -16,7 +16,7 @@ module.exports = {
     
     daily_bonus:100000,// daily bonus amount
     
-    currency:'TNG', //bot cuurency
+    currency:'CRYPTO VERSE', //bot cuurency
     
     cb_api_key:'1996486622',//coinbase api key
     
